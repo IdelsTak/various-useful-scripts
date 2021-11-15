@@ -1,6 +1,4 @@
-# My Pulseaudio Volume Control Keyboard Commands
-
-
+# My PulseAudio Volume Control Keyboard Commands
 
 | Action          | Command                                        | Shortcut               |
 | --------------- | ---------------------------------------------- | ---------------------- |
