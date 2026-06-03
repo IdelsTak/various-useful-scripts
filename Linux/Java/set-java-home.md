@@ -16,6 +16,7 @@ Add the following line at the end of the file, replacing `/path/to/your/java/hom
 
 ```shell
 export JAVA_HOME=/path/to/your/java/home
+export PATH=$JAVA_HOME/bin:$PATH
 ```
 Save the file and exit the text editor.
 
